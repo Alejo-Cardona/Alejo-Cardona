@@ -40,7 +40,7 @@
 
 ## What I am Good at 🧑‍💻 :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,sass,py,django,cpp,bootstrap,react,ps,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,sass,py,django,cpp,bootstrap,react,ps,git,vscodefigma&theme=light)](https://skillicons.dev)
 
 <br>
 
